@@ -1,2 +1,2 @@
 this is the 2nd file for project 2
-I am adding this line in git hub.
+I am adding this line in github.
